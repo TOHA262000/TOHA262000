@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TOHA262000
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning c programing
+- 🌱 I’m currently learning web deploping
 - 💞️ I’m looking to collaborate on anytime
 - 📫 How to reach me 01745703347
 
